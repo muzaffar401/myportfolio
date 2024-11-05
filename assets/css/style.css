@@ -211,7 +211,6 @@ body.active { overflow: hidden; }
 
 .img-holder {
   aspect-ratio: var(--width) / var(--height);
-  background-color: var(--jet-1);
   overflow: hidden;
 }
 
